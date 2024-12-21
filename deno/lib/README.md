@@ -179,7 +179,7 @@ Some other great aspects:
 - Immutable: methods (e.g. `.optional()`) return a new instance
 - Concise, chainable interface
 - Functional approach: [parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
-- Works with plain JavaScript too! You don't need to use TypeScript.
+- Works with plain JavaScript too! You don't need to use TypeScript. All validation features work perfectly in vanilla JS environments.
 
 ## Sponsors
 
